@@ -19,4 +19,5 @@ I use show.sh on Linux to see most of them, since converting to images has issue
 Raster images get too pixelated to see.
 SVG gets too big to open (even Inkscape can't handle the largest).
 
+# Node Expansion Graphs compilation
 `sfdp -x -Goverlap=false -Tsvg level2.dot > level2.svg`
